@@ -1,0 +1,132 @@
+SUV	Y
+chạy	V
+xăng	N
+,	CH
+sạc	V
+điện	N
+hiện	N
+có	V
+lượng	N
+bình_chọn	V
+cao	A
+nhất	A
+phân	V
+khúc	N
+so	V
+với	E
+các	L
+đối_thủ	N
+thuần	A
+động_cơ_đốt_trong	N
+.	CH
+
+Nhưng	C
+sự	N
+thực_hiện	V
+vẫn	R
+còn	C
+chưa	R
+phù_hợp	V
+.	CH
+
+Những	L
+ngày	N
+đẹp_đẽ	A
+ấy	P
+,	CH
+bố	N
+luôn	R
+dành	V
+thời_gian	N
+để	E
+vui_vẻ	A
+với	E
+anh_em	N
+tôi	P
+.	CH
+
+Cổ_động_viên	Ni
+đốt_phá	V
+trong	E
+bạo_loạn	V
+ở	E
+Bỉ	Np
+.	CH
+
+CĐV	Ni
+tự	P
+làm	V
+VAR	Ni
+bằng	E
+ống_nhòm	N
+gây	V
+sốt	V
+.	CH
+
+Bắc_Kinh	Np
+cấm	V
+nhân_viên	N
+chống	V
+dịch	V
+chặn	V
+cổng	N
+nhà	N
+dân	N
+.	CH
+
+Ukraine	Np
+nghi	V
+Nga	Np
+sắp	R
+điều	N
+thêm	V
+quân	N
+từ	E
+Belarus	Np
+.	CH
+
+Lưới_điện	N
+Ukraine	Np
+bên	N
+bờ	N
+vực	V
+sụp_đổ	V
+trước	E
+đòn	N
+tên_lửa	N
+Nga	Np
+.	CH
+
+Châu_Âu	Np
+chạy_đua	V
+bảo_vệ	V
+huyết_mạch	N
+năng_lượng	N
+dưới	E
+đáy	N
+biển	N
+.	CH
+
+Con_mèo	N
+trèo	V
+cây	N
+cau	N
+.	CH
+
+Con_chuột	N
+trèo	V
+cây	N
+cau	N
+.	CH
+
+Con_chuột	N
+hỏi	V
+con_mèo	N
+.	CH
+
+Con	N
+trèo	V
+là	V
+con	N
+nào	P
+.	CH
